@@ -28,8 +28,8 @@
 ---
 
 ### 🌍 Connect with Me
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK) *(add your link when ready)*
-- ✉️ Reach me at **[your email here]**  
+- 💼 [LinkedIn](https://www.linkedin.com/in/ibai-mutiloa-aliaga-a4266919b/)
+- ✉️ Reach me at **[ibaimuga03@gmail.com]**  
 
 > “Build things that make people’s lives easier — and keep learning while you do.”
 
