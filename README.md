@@ -1,7 +1,36 @@
-## Hi there 👋
+## 👋 Hi there, I'm Ibai Mutiloa
 
-- 🔭 I’m currently working on Mondragon Unibertsitatea's Software Department
-- 🌱 I’m currently learning Moodle Development
+💻 Software Engineer at **Mondragon Unibertsitatea**  
+🔧 Passionate about building **scalable web systems**, **intelligent software**, and **open-source tools** that make a real impact.  
+🌱 Continuously learning and experimenting with new technologies to grow as a developer.
 
+---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibai-mutiloa&langs_count=10&layout=compact)
+### 🧰 Tech Stack
+**Languages:** Python · JavaScript/TypeScript · PHP · Java  
+**Frameworks:** FastAPI · Node.js · Next.js · Moodle  
+**Databases:** PostgreSQL · MySQL  
+**Tools:** Docker · Git · Linux (Debian 12)  
+
+---
+
+### 🚀 Current Focus
+- 🏫 Developing software solutions at **Mondragon Unibertsitatea's Software Department**
+- 🌐 Enhancing web platforms and Moodle plugins
+- ⚙️ Exploring new technologies in backend development and AI integration
+
+---
+
+### 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibai-mutiloa&langs_count=10&layout=compact&theme=tokyonight)
+
+---
+
+### 🌍 Connect with Me
+- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK) *(add your link when ready)*
+- ✉️ Reach me at **[your email here]**  
+
+> “Build things that make people’s lives easier — and keep learning while you do.”
+
+---
