@@ -20,10 +20,9 @@
 - ⚙️ Exploring new technologies in backend development and AI integration
 
 ---
-
 ### 📊 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ibai-mutiloa&langs_count=10&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-omega-woad.vercel.app/api/top-langs/?username=ibai-mutiloa&layout=compact&theme=tokyonight&langs_count=10)
 
 ---
 
