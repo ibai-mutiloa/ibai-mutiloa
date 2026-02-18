@@ -27,8 +27,9 @@
 ---
 
 ### 🌍 Connect with Me
+- 🌍 [WebPage](https://ibaimutiloa.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ibai-mutiloa-aliaga-a4266919b/)
-- ✉️ Reach me at **[ibaimuga03@gmail.com]**  
+- ✉️ Reach me at **[ibaimutiloaaliaga@gmail.com]**
 
 > “Build things that make people’s lives easier — and keep learning while you do.”
 
